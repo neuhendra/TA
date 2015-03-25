@@ -43,7 +43,11 @@ namespace _11Maret
                 this.dataSourceFactory.Dispose();
             }
         }
-
+		
+		private void coba ()
+		{
+		}
+		
         private void SetDataSource(IDataSource dataSource, ILayer layer)
         {
             this.Clear();
