@@ -1,0 +1,17 @@
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\21Maret_Finger.exe.config
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\21Maret_Finger.exe
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\21Maret_Finger.pdb
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\CCT.NUI.Core.dll
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\CCT.NUI.HandTracking.dll
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\CCT.NUI.KinectSDK.dll
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\CCT.NUI.Visual.dll
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\Microsoft.Kinect.dll
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\OpenNI.Net.dll
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\XnVNITE.net.dll
+E:\TA Coba\21Maret_Finger\21Maret_Finger\bin\Release\Microsoft.Kinect.xml
+E:\TA Coba\21Maret_Finger\21Maret_Finger\obj\Release\_21Maret_Finger.MainForm.resources
+E:\TA Coba\21Maret_Finger\21Maret_Finger\obj\Release\_21Maret_Finger.Properties.Resources.resources
+E:\TA Coba\21Maret_Finger\21Maret_Finger\obj\Release\21Maret_Finger.csproj.GenerateResource.Cache
+E:\TA Coba\21Maret_Finger\21Maret_Finger\obj\Release\21Maret_Finger.exe
+E:\TA Coba\21Maret_Finger\21Maret_Finger\obj\Release\21Maret_Finger.pdb
+E:\TA Coba\21Maret_Finger\21Maret_Finger\obj\Release\21Maret_Finger.csprojResolveAssemblyReference.cache
