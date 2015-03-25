@@ -1,0 +1,17 @@
+E:\TA Coba\11Maret\11Maret\bin\Debug\11Maret.exe.config
+E:\TA Coba\11Maret\11Maret\obj\Debug\11Maret.csprojResolveAssemblyReference.cache
+E:\TA Coba\11Maret\11Maret\obj\Debug\_11Maret.Form1.resources
+E:\TA Coba\11Maret\11Maret\obj\Debug\_11Maret.Properties.Resources.resources
+E:\TA Coba\11Maret\11Maret\obj\Debug\11Maret.csproj.GenerateResource.Cache
+E:\TA Coba\11Maret\11Maret\bin\Debug\11Maret.exe
+E:\TA Coba\11Maret\11Maret\bin\Debug\11Maret.pdb
+E:\TA Coba\11Maret\11Maret\bin\Debug\CCT.NUI.Core.dll
+E:\TA Coba\11Maret\11Maret\bin\Debug\CCT.NUI.HandTracking.dll
+E:\TA Coba\11Maret\11Maret\bin\Debug\CCT.NUI.KinectSDK.dll
+E:\TA Coba\11Maret\11Maret\bin\Debug\CCT.NUI.Visual.dll
+E:\TA Coba\11Maret\11Maret\bin\Debug\Microsoft.Kinect.dll
+E:\TA Coba\11Maret\11Maret\bin\Debug\OpenNI.net.dll
+E:\TA Coba\11Maret\11Maret\bin\Debug\XnVNITE.net.dll
+E:\TA Coba\11Maret\11Maret\bin\Debug\Microsoft.Kinect.xml
+E:\TA Coba\11Maret\11Maret\obj\Debug\11Maret.exe
+E:\TA Coba\11Maret\11Maret\obj\Debug\11Maret.pdb
